@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Kids Colored Eyeglass",
+            "description": "Kids coloured frame eyeglass",
+            "price": 1000,
+            "image": "https://i.postimg.cc/Fs7nyTvd/eyeglass1.jpg",
+            "frameColor": "Green Transparent",
+            "frameShape": "Round",
+            "size": "2-5 yrs",
+            "BrandName": "Hooper",
+            "collection": "Gripzy Hooper",
+            "warranty": "1 Year"
+        },
+        {
+            "id": 2,
+            "name": "Grey Eyeglass",
+            "description": "Kids transparent eyeglass",
+            "price": 2000,
+            "image": "https://i.postimg.cc/cJZtQ1jD/eyeglass4.jpg",
+            "frameColor": "Grey Transparent",
+            "frameShape": "Round",
+            "size": "5-8 yrs",
+            "BrandName": "Hooper",
+            "collection": "Flexi Hooper",
+            "warranty": "1 Year"
+          },
+          {
+            "id": 3,
+            "name": "Lenskart Air",
+            "description": "Men's eyeglass",
+            "price": 1700,
+            "image": "https://i.postimg.cc/qqYjR61D/men1.jpg",
+            "frameColor": "Transparent",
+            "frameShape": "Square",
+            "size": "Wide",
+            "BrandName": "Lenskart Air",
+            "collection": "Air Fusion",
+            "warranty": "1 Year"
+          },
+          {
+            "id": 4,
+            "name": "Lenskart Eyeglass Men",
+            "description": "Men's Gunmetal eyeglass",
+            "price": 2000,
+            "image": "https://i.postimg.cc/vTQCwncJ/men2.jpg",
+            "frameColor": "Black Gunmetal",
+            "frameShape": "Aviator",
+            "size": "Medium",
+            "BrandName": "Vincent Chase",
+            "collection": "SLEEK STEEL",
+            "warranty": "1 Year"
+          },
+          {
+            "id": 5,
+            "name": "Half Rim Eyeglass",
+            "description": "Blue Transparent Half Rim Eyeglass",
+            "price": 3000,
+            "image": "https://i.postimg.cc/BnqSPKrm/women3.jpg",
+            "frameColor": "Blue Transparent",
+            "frameShape": "Round",
+            "size": "Medium",
+            "BrandName": "Lenskart AIr Online",
+            "collection": "Air Fusion",
+            "warranty": "1 Year"
+          },
+          {
+            "id": 6,
+            "name": "Full Rim Eyeglass",
+            "description": "Pink Transparent Full Rim Eyeglass",
+            "price": 3500,
+            "image": "https://i.postimg.cc/YCqGg9Zz/women4.jpg",
+            "frameColor": "Pink Transparent",
+            "frameShape": "Cat Eye",
+            "size": "Medium",
+            "BrandName": "John Jacobs",
+            "collection": "Rich Acetate",
+            "warranty": "1 Year"
+          }
+    ],
+    "users":[
+        {
+            "username":"anagha@gmail.com",
+            "password":"anagha123"
+        }
+    ]
+}
